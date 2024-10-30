@@ -6,3 +6,4 @@ Github stacked pull requests (SPR) tool demo app.
 
 1. init
 2. feature 1
+3. feature 2
